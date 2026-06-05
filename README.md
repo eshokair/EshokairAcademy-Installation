@@ -1,2 +1,17 @@
-# EshokairAcademy-Installation
-This repository for Eshokair-Academy Installation documents
+# E. Shokair Academy - Installations & Framework
+
+هذا المستودع مخصص للخطوات التقنية الدقيقة لتهيئة بيئة عمل Oracle الإصدار 26، لضمان استقرار وتكامل الأنظمة[cite: 3].
+
+## المواضيع المغطاة:
+- تهيئة Oracle Database 26[cite: 3].
+- إعداد وربط Oracle APEX 26[cite: 3].
+- تهيئة Oracle ORDS 26 والربط الكامل بين المكونات[cite: 3].
+
+## المراجع التعليمية:
+* [تهيئة قاعدة البيانات - Install Oracle DB 26](رابط_الفيديو_هنا)[cite: 3]
+* [تهيئة Apex 26](رابط_الفيديو_هنا)[cite: 3]
+* [تهيئة Oracle ORDS 26](رابط_الفيديو_هنا)[cite: 3]
+
+---
+💡 **تنبيه:** يرجى دائماً مراجعة متطلبات النظام قبل البدء في التهيئة لضمان أفضل أداء.
+*E. Shokair Academy - معاً لبناء بيئة عمل احترافية.*
